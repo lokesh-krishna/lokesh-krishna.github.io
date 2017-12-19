@@ -36,6 +36,11 @@ html {
 	color: #A3BE8C;
 }
 
+.argument {
+	color: #D8DEE9;
+	text-decoration: underline;
+}
+
 a {
 	text-decoration: none;
 }
