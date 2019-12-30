@@ -1,6 +1,6 @@
 ### Start Page
 
-![Start Page](/images/firefox.png)
+![Start Page](/images/firefox.png) ![Start Page](/images/firefox.png)
 
 This is a start page that is designed to mimic the look of my terminal in my current setup. 
 
